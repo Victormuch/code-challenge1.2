@@ -2,6 +2,7 @@
 function new1(forward, back) {
   // we put an empty array to hold the generated numbers
   let one = [];
+  // math.sign shows if a number is negative
   let method = Math.sign(back - forward);
   let two = forward;
   while (two <= back) {
