@@ -1,4 +1,4 @@
-# code-challenge1.2
+# ALPHA 
 
 #### Date, 2024/04/01
 
@@ -16,19 +16,18 @@ They inculde:
 
 ## Installation Requirements
 
-Git
+You have to git clone to be able to download the documents in GitHub
 
 ```
-
-# Live Link
 
 ## Technologies used
 Javascript
 
-## Support and contact details
+## resource used include: W3schools and regex 
 
 
-### License
+### Author &License
+.Victor Nyingi Muchiri
 The content of this site is licensed under the MIT license
 Copyright (c) 2018.
 
